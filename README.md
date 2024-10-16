@@ -27,7 +27,7 @@
 
 1. Скопируйте ссылку на репозиторий:  
    ```bash
-   https://github.com/phoenix-intensive/Lumincoin-Finance-JS.git
+   https://github.com/phoenix-intensive/freelance-studio-js.git
    ```
 
 2. Откройте вашу IDE (например, WebStorm или VS Code) и выполните следующие шаги:
